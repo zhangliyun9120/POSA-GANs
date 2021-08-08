@@ -1,0 +1,9 @@
+# ninja log v5
+0	9100	1622708379	/home/liyun/Desktop/pytorch_ws/SF-GANs/build/temp.linux-x86_64-3.6/home/liyun/Desktop/pytorch_ws/SF-GANs/models/csrc/cuda/ROIAlign_cuda.o	765a50338355d80c
+0	9180	1622708380	/home/liyun/Desktop/pytorch_ws/SF-GANs/build/temp.linux-x86_64-3.6/home/liyun/Desktop/pytorch_ws/SF-GANs/models/csrc/cuda/ROIPool_cuda.o	5353a6da5d7e3d57
+0	12047	1622708382	/home/liyun/Desktop/pytorch_ws/SF-GANs/build/temp.linux-x86_64-3.6/home/liyun/Desktop/pytorch_ws/SF-GANs/models/csrc/cpu/ROIAlign_cpu.o	cb446bdebd498067
+0	13732	1622708384	/home/liyun/Desktop/pytorch_ws/SF-GANs/build/temp.linux-x86_64-3.6/home/liyun/Desktop/pytorch_ws/SF-GANs/models/csrc/vision.o	db3696b53e503c4
+2	9068	1622708394	/home/liyun/Desktop/pytorch_ws/SF-GANs/build/temp.linux-x86_64-3.6/home/liyun/Desktop/pytorch_ws/SF-GANs/models/csrc/cuda/ROIAlign_cuda.o	e4be71c397050fec
+2	9088	1622708394	/home/liyun/Desktop/pytorch_ws/SF-GANs/build/temp.linux-x86_64-3.6/home/liyun/Desktop/pytorch_ws/SF-GANs/models/csrc/cuda/ROIPool_cuda.o	4deeff7d2d9f84b
+2	12029	1622708397	/home/liyun/Desktop/pytorch_ws/SF-GANs/build/temp.linux-x86_64-3.6/home/liyun/Desktop/pytorch_ws/SF-GANs/models/csrc/cpu/ROIAlign_cpu.o	43a979c69e58dcd5
+1	13725	1622708398	/home/liyun/Desktop/pytorch_ws/SF-GANs/build/temp.linux-x86_64-3.6/home/liyun/Desktop/pytorch_ws/SF-GANs/models/csrc/vision.o	c2b3b3b744961ff4

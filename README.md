@@ -1,1 +1,1 @@
-# OL-GANs
+# POSA-GANs
